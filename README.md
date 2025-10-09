@@ -6,6 +6,6 @@
     alt="Estatísticas do GitHub de Gortin"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"  
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=transparent"  
   />
 </p>
