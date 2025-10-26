@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Olá, meu nome é Gabriel 👋</h1>
+<h1 style="text-align: center; margin: 0 auto;">Olá, meu nome é Gabriel 👋</h1>
 
 <p align="center">
   <img 
