@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou o Gabriel 👋</h1>
+  <h1>Olá, eu sou o Gabriel Nathan 👋</h1>
   <p>
     💻 Estudante de Análise e Desenvolvimento de Sistemas<br>
     🚀 Focado em Backend e Automação de Processos<br>
