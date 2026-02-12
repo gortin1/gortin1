@@ -18,7 +18,7 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,aws,vercel,react,js,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,aws,next,react,js,html,css,git,github" />
 </p>
 
 ---
