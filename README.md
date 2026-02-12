@@ -11,13 +11,9 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img 
-    height="170"
-    src="[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gortin1&show_icons=true&theme=transparent)" 
-  />
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gortin1&layout=compact&theme=transparent&hide_border=true"  
+    src="https://streak-stats.demolab.com/?user=gortin1&theme=dark"  
   />
 </p>
 
