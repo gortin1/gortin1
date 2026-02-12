@@ -13,7 +13,7 @@
 <p align="center">
   <img 
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=gortin1&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" 
+    src="[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gortin1&show_icons=true&theme=transparent)" 
   />
   <img
     height="170"
