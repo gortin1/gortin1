@@ -3,7 +3,7 @@
   <p>
     💻 Estudante de Análise e Desenvolvimento de Sistemas<br>
     🚀 Focado em Backend e Automação de Processos<br>
-    📚 Apaixonado por resolver problemas através do código
+    📚 Apaixonado em aprender e melhorar sempre
   </p>
 
   <p>
