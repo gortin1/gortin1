@@ -30,14 +30,12 @@
 
 * **Patinhas Solidárias**: Aplicativo mobile voltado para a causa animal, focado em UX/UI e impacto social.
 * **Sistema de Gestão de Estoque**: Desenvolvimento backend focado em regras de negócio complexas e persistência de dados.
-* **Automações em Python**: Scripts para otimização de tarefas repetitivas e coleta de dados.
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gortin1&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="180" src="https://streak-stats.demolab.com/?user=gortin1&theme=dark" />
 </div>
 
@@ -45,13 +43,9 @@
 
 ### 🎯 Atualmente estudando
 
-- 🐍 **Python & Selenium**: Focado em automação web e RPA.
+- 🐍 **Python**: Focado em automação web e RPA.
 - ☕ **Spring Boot**: Aprofundando em arquitetura de microserviços.
 - ☁️ **AWS**: Cloud computing e deploy de aplicações.
 - 🗄️ **Banco de Dados**: Otimização de queries SQL e modelagem relacional.
 
----
 
-<p align="center">
-  <i>"A única maneira de fazer um excelente trabalho é amar o que você faz."</i>
-</p>
